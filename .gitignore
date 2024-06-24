@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+llm_zoom/
 
 # Spyder project settings
 .spyderproject
